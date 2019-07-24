@@ -7,6 +7,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 public class PoetryLibraryFileAdaptor implements ObtainPoems {
+
     private String verse;
 
     public PoetryLibraryFileAdaptor(String path) {
