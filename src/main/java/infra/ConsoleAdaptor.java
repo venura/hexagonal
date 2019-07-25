@@ -5,6 +5,7 @@ import domain.PoetryReader;
 public class ConsoleAdaptor {
     private final PoetryReader poetryReader;
     private final WriteLines publicationStrategy;
+
     public ConsoleAdaptor(PoetryReader poetryReader, WriteLines publicationStrategy) {
         this.poetryReader = poetryReader;
         this.publicationStrategy = publicationStrategy;

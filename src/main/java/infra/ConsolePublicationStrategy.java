@@ -5,7 +5,7 @@ public class ConsolePublicationStrategy  implements WriteLines{
     }
 
     @Override
-    public void writeLine(String verses) {
-        System.out.println(verses);
+    public void writeLine(String text) {
+        System.out.println(text);
     }
 }
