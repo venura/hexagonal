@@ -12,6 +12,7 @@ import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.verify;
 
 public class AcceptanceTest {
+    //Goes from console to the hardcode and cutoff all the right side stuff (here its different from orginal steps according to alistair- which is from test console to the stub)
     @Test
     public void should_give_verses_when_asked_for_poetry() {
         //Here the adaptor is the test it self
