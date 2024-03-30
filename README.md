@@ -21,3 +21,7 @@ https://www.youtube.com/watch?v=th4AgBcrEHA&list=PLGl1Jc8ErU1w27y8-7Gdcloy1tHO7N
 - In real use, with a person using the application to access a live database.
 
 https://alistair.cockburn.us/hexagonal-architecture/
+
+
+https://github.com/jmgarridopaz/bluezone
+https://www.youtube.com/watch?v=tZzfKCt2Ens
